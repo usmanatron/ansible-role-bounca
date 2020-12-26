@@ -27,7 +27,7 @@ Available variables are listed below, along with default values:
 
 ## Dependencies
 
- - repleo.nginx - Installs nginx server
+- repleo.nginx - Installs nginx server
 
 ## Example Playbook
 
